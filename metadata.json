@@ -1,0 +1,7 @@
+{
+  "name": "IT Gallery Shop Official AI Assistant",
+  "description": "A premium, accurate e-commerce assistant for IT Gallery Shop, featuring product search, comparisons, EMI checks, and store information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
